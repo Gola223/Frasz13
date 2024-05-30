@@ -27,7 +27,7 @@ global.botscript = 'https://github.com/Linkiddrak/Frasz13' //script link
 global.packname = "...♨︎"
 global.author = "...♨︎"
 global.creator = "22395064497@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '#'
 global.premium = ["22395064497"] // Premium User
 global.hituet = 0
 
