@@ -16,19 +16,19 @@ global.socialm = "GitHub: Linkiddrak" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Raizen Bot MD V13' //ur bot Name
-global.ownernumber = '22871255034' //ur owner number
-global.ownername = 'Raizen' //ur owner name
-global.websitex = "https://www.youtube.com/@FraszHost"
+global.botname = '...♨︎ Bot MD V13' //ur bot Name
+global.ownernumber = '22395064497' //ur owner number
+global.ownername = '...♨︎' //ur owner name
+global.websitex = "https://www.instagram.com/bwaby_6.0"
 global.wagc = "https://chat.whatsapp.com/GFrGhFd83gzItxS7T7d3Ci"
-global.themeemoji = '❄️'
+global.themeemoji = '🦠'
 global.wm = "Darki Bot Inc."
 global.botscript = 'https://github.com/Linkiddrak/Frasz13' //script link
-global.packname = "Sticker By"
-global.author = "❄️Raizen"
-global.creator = "22871255034@s.whatsapp.net"
+global.packname = "...♨︎"
+global.author = "...♨︎"
+global.creator = "22395064497@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["22871255034"] // Premium User
+global.premium = ["22395064497"] // Premium User
 global.hituet = 0
 
 //bot sett
