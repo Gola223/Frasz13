@@ -28,7 +28,7 @@ global.packname = "...♨︎"
 global.author = "...♨︎"
 global.creator = "‪2250747869771‬@s.whatsapp.net"
 global.xprefix = '#'
-global.premium = ["22395064497"] // Premium User
+global.premium = ["‪2250747869771‬"] // Premium User
 global.hituet = 0
 
 //bot sett
