@@ -17,7 +17,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = '...♨︎ Bot MD V13' //ur bot Name
-global.ownernumber = '‪2250747869771‬' //ur owner number
+global.ownernumber = '‪22395064497‬' //ur owner number
 global.ownername = '...♨︎' //ur owner name
 global.websitex = "https://www.instagram.com/bwaby_6.0"
 global.wagc = "https://chat.whatsapp.com/GFrGhFd83gzItxS7T7d3Ci"
@@ -26,9 +26,9 @@ global.wm = "Darki Bot Inc."
 global.botscript = 'https://github.com/Linkiddrak/Frasz13' //script link
 global.packname = "...♨︎"
 global.author = "...♨︎"
-global.creator = "‪2250747869771‬@s.whatsapp.net"
+global.creator = "‪22395064497‬@s.whatsapp.net"
 global.xprefix = '#'
-global.premium = ["‪2250747869771‬"] // Premium User
+global.premium = ["‪22395064497‬"] // Premium User
 global.hituet = 0
 
 //bot sett
