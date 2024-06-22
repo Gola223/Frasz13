@@ -17,7 +17,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = '🇲🆁𝐷𝛯𝛥𝑇𝛨✘☤ᵗᵉᶜʰ™️✞𝙤𝙛𝙛𝙞𝙘𝙞𝙚𝙡➽➴' //ur bot Name
-global.ownernumber = '237693832446' //ur owner number
+global.ownernumber = '22395064497' //ur owner number
 global.ownername = '~🇲🆁𝐷𝛯𝛥𝑇𝛨✘☤ᵗᵉᶜʰ™️✞𝙤𝙛𝙛𝙞𝙘𝙞𝙚𝙡➽➴' //ur owner name
 global.websitex = "https://www.instagram.com/bwaby_6.0"
 global.wagc = "https://chat.whatsapp.com/GFrGhFd83gzItxS7T7d3Ci"
